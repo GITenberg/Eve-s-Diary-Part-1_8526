@@ -1,5 +1,5 @@
 _repo: Eve-s-Diary-Part-1_8526
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Ralph, Lester
@@ -7,9 +7,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/4488
 covers:
 - cover_type: archival
-  image_path: 8526/8526-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 8526-h/images/cover.jpg
 creator:
   author:
     agent_name: Twain, Mark
@@ -31,6 +29,8 @@ description: 'A humorous monologue about Eve''s experiences at the dawn of creat
   they have color and majesty, that is enough for her, and she loses her mind over
   them ... If there is anything on the planet that she is not interested in, it is
   not in my list."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8526#Eve-s-Diary-Part-1
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
